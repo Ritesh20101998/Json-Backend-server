@@ -5,6 +5,24 @@
       "email": "rk@gmail.com",
       "password": "rk123",
       "id": 1
+    },
+    {
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "password": "vishal123",
+      "id": 2
+    },
+    {
+      "name": "suraj",
+      "email": "suraj@gmail.com",
+      "password": "suraj123",
+      "id": 3
+    },
+    {
+      "name": "suraj",
+      "email": "suraj@gmail.com",
+      "password": "suraj123",
+      "id": 4
     }
   ],
   "appointments": [
