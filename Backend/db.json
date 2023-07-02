@@ -18,6 +18,17 @@
       "slots": 2,
       "fee": 150,
       "id": 1
+    },
+    {
+      "name": "kiara devile",
+      "image": "https://thumbs.dreamstime.com/b/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg",
+      "specialization": "Dentist",
+      "experience": 6,
+      "location": "Nashik",
+      "date": "2023-05-25T12:00:00.000Z",
+      "slots": 1,
+      "fee": 500,
+      "id": 2
     }
   ]
 }
