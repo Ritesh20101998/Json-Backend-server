@@ -1,5 +1,4 @@
 const jsonserver = require("json-server")
-
 const cors = require("cors")
 const path = require("path")
 
